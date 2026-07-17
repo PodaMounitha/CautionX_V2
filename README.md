@@ -1,6 +1,6 @@
-# 🛡️ CautionX V2: AI-Powered URL Threat Detection Platform
+# 🛡️ CautionX: AI-Powered URL Threat Detection Platform
 
-CautionX V2 is a full-stack cybersecurity application that detects malicious URLs using a hybrid approach combining Machine Learning, heuristic analysis, and VirusTotal threat intelligence. The platform provides real-time URL analysis, explainable risk assessment, and actionable security recommendations through a modern React frontend and Flask backend.
+CautionX is a full-stack cybersecurity application that detects malicious URLs using a hybrid approach combining Machine Learning, heuristic analysis, and VirusTotal threat intelligence. The platform provides real-time URL analysis, explainable risk assessment, and actionable security recommendations through a modern React frontend and Flask backend.
 
 ---
 
